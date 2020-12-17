@@ -10,10 +10,13 @@
   "author": "Guilherme Avelino",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.6",
+    "sequelize-cli": "^6.2.0",
     "sucrase": "^3.16.0"
   }
 }
